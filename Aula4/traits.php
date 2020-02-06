@@ -11,7 +11,7 @@
 
 //** Copiado do Professor 
 
-<?php
+
 
 trait Operacoes
 {
